@@ -20,7 +20,7 @@ streamlit run app.py
 ```
 ## Онлайн-версия приложения
 
-Ссылка на развернутое приложение будет добавлена после публикации на Streamlit Cloud.
+(https://app-huggingface-app-xr6pkvh7ks9dhskghgzavu.streamlit.app/)
 
 ## Автор
 
